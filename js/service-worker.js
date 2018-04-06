@@ -4,6 +4,7 @@ var filesToCache = [
   '/',
   '/index.html',
   '/js/main.js',
+  '/js/boot.js',
   '/css/main.css'
 ];
 
